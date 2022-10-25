@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vihidu Siththaru De Silva
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning software engineering, full stack developments.
+- 💞️ I’m more into backend development and I'm well known for performing daring maneuvers in coding.
