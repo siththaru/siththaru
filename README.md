@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing microservices with Spring Boot and cloud integrations.<br>👯 I’m looking to collaborate on open-source projects related to backend development and API design.<br>🤝 I’m seeking help implementing advanced security measures in distributed systems.<br>🌱 I’m currently learning advanced AWS services for scalable deployments.<br>💬 Ask me about Java, Spring Boot, RESTful APIs, and backend architecture.<br>⚡ Fun fact: My code works 99% of the time... the other 1% is to keep things interesting.
+🔭 I’m currently working on enhancing microservices with Spring Boot and cloud integrations.<br>👯 Looking to collaborate on open-source projects related to backend development and API design.<br>🤝 Seeking help implementing advanced security measures in distributed systems.<br>🌱 Currently learning advanced AWS services for scalable deployments.<br>💬 Ask me about Java, Spring Boot, RESTful APIs, and backend architecture.<br>⚡ Fun fact: My code works 99% of the time... the other 1% is to keep things interesting.
 
 
 ## 🌐 Socials:
